@@ -1,0 +1,17 @@
+{
+  "include": ["src"],
+
+  "compilerOptions": {
+    "allowJs": true,
+    "declaration": false,
+    "noEmit": true,
+    "target": "ES2015",
+    "module": "ES2015",
+    "moduleResolution": "Node",
+    "jsx": "preserve",
+    "skipLibCheck": true,
+    "strictNullChecks": true,
+    "esModuleInterop": true,
+    "types": []
+  }
+}
