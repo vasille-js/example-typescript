@@ -15,7 +15,7 @@
     "vite-plugin-babel": "^1.2.0"
   },
   "dependencies": {
-    "babel-plugin-vasille": "^0.99.0",
-    "vasille-web": "^0.99.0"
+    "babel-plugin-vasille": "^0.99.1",
+    "vasille-web": "^0.99.1"
   }
 }
